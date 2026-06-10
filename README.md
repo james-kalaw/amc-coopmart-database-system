@@ -8,10 +8,6 @@ Note: All SQL codes that was used to create the database are in the final docume
 
 A comprehensive relational database solution designed for cooperative-based grocery operations, integrating membership management, marketing analytics, sales processing, logistics tracking, customer support, community engagement, and cooperative financial management.
 
-![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-Database-red?style=for-the-badge&logo=oracle)
-![Database Design](https://img.shields.io/badge/Database-Management-blue?style=for-the-badge)
-![Cooperative System](https://img.shields.io/badge/Cooperative-Commerce-green?style=for-the-badge)
-
 </div>
 
 ---

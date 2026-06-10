@@ -1,5 +1,7 @@
 <div align="center">
 
+Note: All codes that was used to create the database are in the final documentation.
+
 # AMC CoopMart Database System
 
 ### Cooperative Grocery Management Information System

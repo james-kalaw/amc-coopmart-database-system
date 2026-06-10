@@ -48,7 +48,7 @@ The project follows a normalized relational database design implemented using Or
 
 The database consists of **21 interconnected tables** organized into six major modules:
 
-## 1️⃣ zMembership Module
+## 1️⃣ Membership Module
 
 Manages cooperative members and subscription plans.
 

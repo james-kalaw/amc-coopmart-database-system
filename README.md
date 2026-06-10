@@ -297,7 +297,7 @@ AMC-CoopMart-Database-System/
 
 # Authors
 
-This project was developed by Group 1 as part of the Database Management Systems course.
+This project was developed by Group 1 as part of the Information Management course.
 
 ### Team Responsibilities
 

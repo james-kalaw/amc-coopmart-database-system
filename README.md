@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛒 AMC CoopMart Database System
+# AMC CoopMart Database System
 
 ### Cooperative Grocery Management Information System
 
@@ -14,7 +14,7 @@ A comprehensive relational database solution designed for cooperative-based groc
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 AMC CoopMart is a cooperative grocery management database system designed to support the operational, financial, and community-driven activities of a modern cooperative organization.
 
@@ -33,7 +33,7 @@ The project follows a normalized relational database design implemented using Or
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Design a scalable cooperative management database
 - Implement data integrity through relational modeling
@@ -44,11 +44,11 @@ The project follows a normalized relational database design implemented using Or
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 The database consists of **21 interconnected tables** organized into six major modules:
 
-## 1️⃣ Membership Module
+## 1️⃣ zMembership Module
 
 Manages cooperative members and subscription plans.
 
@@ -166,7 +166,7 @@ Features:
 
 ---
 
-# 🗄️ Database Design
+# Database Design
 
 ## Entity Summary
 
@@ -182,7 +182,7 @@ Features:
 
 ---
 
-# 🔗 Database Relationship Flow
+# Database Relationship Flow
 
 ```text
 ACQUISITION_PLATFORM
@@ -212,7 +212,7 @@ MEMBER
 
 ---
 
-# 📊 Analytics Supported
+# Analytics Supported
 
 The system supports business intelligence dashboards such as:
 
@@ -245,18 +245,17 @@ The system supports business intelligence dashboards such as:
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 - Oracle SQL
 - Oracle Database 19c
 - SQL DDL
 - SQL DML
 - Relational Database Modeling
-- Data Analytics Dashboard Concepts
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```text
 AMC-CoopMart-Database-System/
@@ -285,7 +284,7 @@ AMC-CoopMart-Database-System/
 
 ---
 
-# 🚀 Future Enhancements
+# Future Enhancements
 
 - Web-based Cooperative Portal
 - Mobile Application Integration
@@ -296,17 +295,20 @@ AMC-CoopMart-Database-System/
 
 ---
 
-# 👨‍💻 Authors
+# Authors
 
-**AMC CoopMart Development Team**
+This project was developed by Group 1 as part of the Database Management Systems course.
 
-Developed as an academic database systems project focusing on:
+### Team Responsibilities
 
-- Database Design
-- Relational Modeling
-- SQL Development
-- Business Process Integration
-- Cooperative Information Systems
+| Role | Responsibilities |
+|--------|------------------|
+| Kalaw, James Andre | Team leader, Database Manager, Database Design, Building the ERD, Creation of tables, population of tables |
+| Detera, Juliana Ysabel | Database Schema, Data gathering |
+| Ituralde, Josh Andrei | Data verifier, Data flow diagram, Compilation of errors |
+| Semilla, Mia Ysabel  | Main GUI, Documentation, Database Verifier |
+| Palijado, Joseph Jennard | Context diagram, Documentation, Database table structure |
+
 
 ---
 

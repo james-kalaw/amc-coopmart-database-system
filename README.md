@@ -240,6 +240,6 @@ The project was built with operational data that AMC Cooperative Store released 
 
 Technological Institute of the Philippines, Quezon City. Instructor: Dr. Rosmina Joy Cabauatan.
 
-**Built by James Andre L. Kalaw**, who did all of it: requesting and gathering the cooperative's data, the business rules, the ERD, context and data flow diagrams, the data dictionary, the 21-table schema, populating the tables, the SQL problems and solutions, and the documentation.
+**James Andre L. Kalaw**: the data request to the cooperative, business rules, ERD, context and data flow diagrams, data dictionary, schema and data, the SQL problems and the documentation.
 
 Course group (Group 1, DS22S1): Juliana Ysabel D.C. Detera, Josh Andrei A. Ituralde, Mia Ysabel R. Semilla and Joseph Jennard Palijado.

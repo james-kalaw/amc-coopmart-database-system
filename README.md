@@ -36,7 +36,7 @@ Group final project for **ITE 014 Information Management** at the Technological 
 
 A cooperative store is owned by its members: they buy shares, shop at member prices, vote on decisions and receive part of the profit. A small cooperative grocery in Quezon City kept these records manually and in separate files, which made it hard to keep track of who ordered what, whether a payment was verified, where a delivery was, and how much each member should receive as a dividend.
 
-We designed one database that keeps all of this in one place. It has 21 linked tables: for example, an order belongs to a member, each item in the order points to a product, and each delivery points to an order and a courier. The links stop mistakes such as an order for a member who does not exist. This repository contains the scripts that build the database, a made-up sample dataset, and the questions we answered with SQL.
+I designed one database that keeps all of this in one place. It has 21 linked tables: for example, an order belongs to a member, each item in the order points to a product, and each delivery points to an order and a courier. The links stop mistakes such as an order for a member who does not exist. This repository contains the scripts that build the database, a made-up sample dataset, and the questions we answered with SQL.
 
 ## Problem statement
 
@@ -200,7 +200,7 @@ To start again, run `sql/00_drop_tables.sql`.
 
 ## About the data
 
-The project was built with operational data that AMC Cooperative Store released to the team **for academic use only, without permission to publish it**. That dataset, the release certificate and the full documentation that contains them are therefore not in this repository.
+The project was built with operational data that AMC Cooperative Store released for this project **for academic use only, without permission to publish it**. That dataset, the release certificate and the full documentation that contains them are therefore not in this repository.
 
 `sql/02_sample_data.sql` is a **fictional** dataset written for this repository so anyone can run the scripts: 16 members, 14 products, 5 suppliers, 3 couriers, 24 orders with 67 order lines, payments, deliveries, votes, suggestions, support tickets, share capital and dividends. All names, emails (`@example.com`), phone numbers (`0900-000-xxxx`), prices and amounts are made up.
 
@@ -240,10 +240,6 @@ The project was built with operational data that AMC Cooperative Store released 
 
 Technological Institute of the Philippines, Quezon City. Instructor: Dr. Rosmina Joy Cabauatan.
 
-| Member | Responsibilities |
-|---|---|
-| **James Andre L. Kalaw** | Team leader and database manager: database design, the ERD, creating and populating the tables |
-| Juliana Ysabel D.C. Detera | Database schema, data gathering |
-| Josh Andrei A. Ituralde | Data verification, data flow diagram, compilation of errors |
-| Mia Ysabel R. Semilla | Main GUI, documentation, database verification |
-| Joseph Jennard Palijado | Context diagram, documentation, database table structure |
+**Built by James Andre L. Kalaw**, who did all of it: requesting and gathering the cooperative's data, the business rules, the ERD, context and data flow diagrams, the data dictionary, the 21-table schema, populating the tables, the SQL problems and solutions, and the documentation.
+
+Course group (Group 1, DS22S1): Juliana Ysabel D.C. Detera, Josh Andrei A. Ituralde, Mia Ysabel R. Semilla and Joseph Jennard Palijado.
